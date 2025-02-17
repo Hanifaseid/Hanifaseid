@@ -10,7 +10,7 @@ I'm a passionate full-stack developer with experience in both front-end and back
 
 Frontend
 
-HTML, CSS, JavaScript (ES6+), TypeScript
+HTML, CSS, JavaScript (ES6+) , TypeScript
 
 React.js, Next.js, Vue.js
 
@@ -26,7 +26,13 @@ MySQL, PostgreSQL, MongoDB
 
 Firebase, Supabase
 
-Docker, CI/CD, AWS, Vercel
+Tools
+
+• Canva
+
+• pixelLab
+
+• Capcut
 
 Design & Video Editing
 
