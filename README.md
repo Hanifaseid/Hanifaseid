@@ -40,6 +40,20 @@ Adobe Photoshop, Illustrator, Figma
 
 Premiere Pro, After Effects
 
+Projects
+
+• Haza Snake Game:
+
+[http://haza-snake-game.netlify.app]
+
+A classic snake game built with JavaScript, demonstrating my understanding of game development principles and browser-based interactivity.
+
+• Haza Tic-Tac-Toe Game:
+
+[http://haza-tic-tac-toe-game.netlify.app]
+
+A Tic-Tac-Toe game implemented with JavaScript, showcasing my ability to create engaging and interactive web applications.
+
 📫 Let's Connect!
 
 Portfolio:https://hanifaseid.netlify.app
