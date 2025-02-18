@@ -42,11 +42,27 @@ Premiere Pro, After Effects
 
 Projects
 
-• Haza Snake Game:
+• Al-Nur Import & Export 🌍🚢
 
-[http://haza-snake-game.netlify.app]
+[https://al-nur.netlify.app]
 
-A classic snake game built with JavaScript, demonstrating my understanding of game development principles and browser-based interactivity.
+– A professional trading website for showcasing import/export services with a clean UI and seamless experience. Live Demo
+
+• HAZA Restaurant 🍽️🔥
+
+– A stylish and responsive restaurant website featuring a dynamic menu, smooth animations, and an intuitive user experience.
+
+• Haza To-Do List:
+
+[http://haza-to-do-list.netlify.app]
+
+A clean and functional to-do list application built with JavaScript, allowing users to manage their tasks effectively. A practical demonstration of my front-end development skills.
+
+• Haza Digital Clock:
+
+[https://haza-digital-clock.netlify.app/]
+
+A stylish digital clock built with HTML, CSS, and JavaScript, showcasing my ability to create visually appealing and interactive web elements.
 
 • Haza Tic-Tac-Toe Game:
 
